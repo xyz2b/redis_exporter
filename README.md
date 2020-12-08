@@ -1,1 +1,1 @@
-# redis_expoter
+# redis_exporter
